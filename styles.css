@@ -49,3 +49,9 @@ h1 {
   margin-bottom: 10px;
   text-shadow: 4px 4px 16px rgb(246, 137, 137);
 }
+
+h4 {
+  color: rgb(197, 196, 196);
+  text-align: center;
+  text-shadow: 4px 4px 16px rgb(187, 185, 185);
+}
